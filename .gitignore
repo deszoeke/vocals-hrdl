@@ -1,0 +1,5 @@
+*.mat
+*.eps
+*.nc
+.DS_Store
+*.m~
